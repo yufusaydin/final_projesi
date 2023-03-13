@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+body{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lato', sans-serif;
+     background-color: rgb(129, 137, 129);
+     background-image: linear-gradient(rgba(80, 60, 60, 0.75),rgba(0,0,0,0.75)),url(https://i.cnnturk.com/i/cnnturk/75/740x416/6254011570380e13fc67faeb.jpg) ;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     background-position: center;
+    
+ }
+ ---------------------------------------------------------------------------------------------------
+.box{ 
+    padding: 25px;
+    margin: auto;
+    float: right;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #000;
+    font-size: 24px;
+}
+---------------------------------------------------------------------------------------------------
+ .hr123 {
+ color: green;
+ font-size: 40px;
+ font-family: cursive;
+ }
+ ---------------------------------------------------------------------------------------------------
+article{
+    color: green; 
+
+}
+ ---------------------------------------------------------------------------------------------------
+ 
+ .flwr_clr{
+font-size: 24px;
+color: black
+ }
+ -------------------------------------------------------------------------------------------------
+
+ .yazi_not{
+    text-decoration: none !important;
+    font-family: 'Dancing Script', cursive;
+ }
+
+
+.clr.rnk{
+    color: red;
+    font-size: large;
+    font-family: sans-serif;
+}
+.maintext{
+   
+    font-family: cursive;
+ 
+ }
+ .maintext2{
+
+    font-family: monospace;
+ }
+
+
+ .pntsize a{ 
+    color: green;
+    text-decoration: none;
+
+ }
+ h1{
+    color: rgb(245, 245, 245)
+ }
+
+
+ h3{
+    color: rgb(203, 203, 203)
+ }
+
+
+ .degistirme{
+    font-family: monospace;
+    color: rgb(181, 243, 181);
+ }
+
+ 
+.basliklarmain a{
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+
+}

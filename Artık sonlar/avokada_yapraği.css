@@ -1,0 +1,23 @@
+.maintext{
+    font-family: cursive;
+}
+body{background-color: blanchedalmond;
+}
+
+.mainsize{
+    font-size: 20px;
+
+
+
+}
+.typeptext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.maintextdesign{
+    font-family: monospace;
+    font-size: 15px;
+position: absolute;
+right: 0px;
+width: 150px;
+}

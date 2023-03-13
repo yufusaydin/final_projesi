@@ -1,0 +1,31 @@
+.a_version_1{
+    color: black;
+    
+
+}
+
+body{
+    background-color: blanchedalmond;
+
+    
+}
+
+
+.maintext{
+   
+   font-family: cursive;
+
+}
+.maintextdesign{
+    font-family: monospace;
+    font-size: 15px;
+position: absolute;
+right: 0px;
+width: 150px;
+}
+.mainsize{
+    font-size: 20px;
+
+
+
+}

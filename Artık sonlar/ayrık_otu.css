@@ -1,0 +1,30 @@
+.maintext{
+    font-family: cursive;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.maintextdesign{
+    font-family: monospace;
+    font-size: 15px;
+position: absolute;
+right: 0px;
+width: 150px;
+}
+
+.text_location{
+    position: absolute;
+    left: 0px;
+    width: 150px;
+    text-decoration: none !important;
+    font font-family: monospace;
+    
+}
+.mainsize{
+    font-size: 20px;
+
+
+
+}
